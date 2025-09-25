@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "f4db8e724ca0d87a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a5aa0fe1b277b6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3fa1c8ef358d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "f2f541ce6b66f1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B461/RA Rewrite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RA Rewrite"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3917c43aba7551f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a99bfdfc13c48f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed3345170817e04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ba493411c447622",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c47f7599f0a90ea7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c5a501686416ef5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c94d85b12ec6d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295ed400db8c6302",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B461/SQL Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SQL Basics"
+            }
+          },
+          {
+            "id": "67140e5c19424809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B461/SQL Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SQL Basics"
+            }
+          },
+          {
+            "id": "1c86ecf3f17fa896",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5085eccc38a7c31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B461/SQL Basics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SQL Basics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f2f541ce6b66f1bd",
+  "lastOpenFiles": [
+    "README.md",
+    "New Text Document.txt",
+    "Obsidian-Vault",
+    "B461/Relation Algebra.md",
+    "B461/RA Rewrite.md",
+    "preamble.sty.md",
+    "preamble.sty",
+    "B461/SQL to RA.md",
+    "Index.md",
+    "B403/Graphs.md",
+    "B403/Run Time Analysis.md",
+    "B461/SQL Basics.md",
+    "B403/Stable Matching.md",
+    "B461/Joins.md",
+    "B461/Views.md",
+    "Untitled.canvas",
+    "CSS/hide blank line above tables.css.md",
+    "CSS/hide-blank-line-above-tables.css",
+    "CSS",
+    "Untitled.base",
+    "B461",
+    "B403"
+  ]
+}

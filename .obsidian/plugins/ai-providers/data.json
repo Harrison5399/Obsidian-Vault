@@ -1,0 +1,18 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1757431346718",
+      "name": "Ollama",
+      "apiKey": "",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "gpt-oss:20b",
+      "availableModels": [
+        "gpt-oss:20b"
+      ]
+    }
+  ]
+}
