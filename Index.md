@@ -2,6 +2,8 @@
 1. [[Run Time Analysis]]
 2. [[Stable Matching]]
 3. [[Graphs]]
+4. [[Greedy Algorithms]]
+5. [[Minimum Spanning Trees]]
 
 
 ## B461 - Database Concepts
@@ -11,6 +13,10 @@
 4. [[Joins]]
 5. [[SQL to RA]]
 6. [[RA Rewrite]]
+7. [[SQL Functions and Expressions]]
+8. [[Aggregate Functions]]
+9. [[Triggers]]
 
+## D321 - Data Representation
 
 

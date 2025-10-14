@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "hide-blank-line-above-tables"
-  ]
+  ],
+  "theme": "moonstone"
 }

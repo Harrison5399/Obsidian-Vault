@@ -89,7 +89,7 @@ Running time of DFS is $O(n+m)$
 
 #### DAG (Directed Acyclic Graph)
 
-**Topological Order** - A labeling of the nodes as $v_1, v_2, \dots, v_n$ so that whenever there is an edge $(v_i, v_j)$ then it must be that $i<j$
+**Topological Order** - A labeling of the nodes as $v_1, v_2, \dots, v_n$ so that whenever there is an edge $(v_i, v_j)$ then it must be that $i<j$, (root appears first, must complete first in list before can go on to other children)
 - Not all directed graphs have a topological ordering, that is if it has a cycle, it has no topological order
 - If a graph has a topological ordering, it must be a DAG
 

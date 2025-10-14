@@ -2,5 +2,6 @@
   "ai-providers",
   "local-gpt",
   "obsidian-latex",
-  "quick-latex"
+  "quick-latex",
+  "mermaid-tools"
 ]

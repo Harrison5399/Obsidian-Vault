@@ -2,8 +2,8 @@
 
 | Symbol             | Operation         | SQL Command |
 | ------------------ | ----------------- | ----------- |
-| $\sigma$           | Select (columns)  | SELECT      |
-| $\pi$              | Project (rows)    | WHERE       |
+| $\sigma$           | Select (columns)  | WHERE       |
+| $\pi$              | Project (rows)    | SELECT      |
 | $\cup$             | Set Union         | UNION       |
 | $\cap$             | Set Intersect     | INTERSECT   |
 | $-$                | Set Difference    | EXCEPT      |

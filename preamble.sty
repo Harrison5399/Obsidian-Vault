@@ -1,5 +1,7 @@
 
 \usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{cancle}
 
 
 \newcommand{\join}{\bowtie}
@@ -10,4 +12,6 @@
 \newcommand{\s}{\space}
 
 
-
+\newcommand\Mydiv[2]{%
+$\strut#1$\kern.25em\smash{\raise.3ex\hbox{$\big)$}}$\mkern-8mu
+        \overline{\enspace\strut#2}$}
