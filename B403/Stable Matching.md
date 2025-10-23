@@ -44,9 +44,17 @@ Return S as the set of matches
 **Worst Case** - $O(n^2)$
 
 All companies and applicants get matched
+- Proof by contradiction
+- Assume all companies and applicants didn't get a match
+- $\exists$ C and A free
+	- C didn't offer A
+		- Contradiction because of the while loop in the algorithm, in worst case C will send an offer to every applicant
+	- OR C offered A but A rejected
+		- Contradiction because A rejects C if A already has a better offer, so A must not be free
+
 The matching is stable
 **Proof** (by contradiction) - 
-Assume P3 is false (not a stable match):
+Assume there exists not a stable match in the output:
 	$\exists$ (C, A) and (C', A)
 		A prefers C' over C
 		C' prefers A over A'

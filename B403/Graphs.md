@@ -14,7 +14,6 @@ Acyclic Connected Graph
 
 **Degree** - Given a node, returns number of edges connected
 **Leaf** - Nodes with Degree of 1
-
 ###### Properties
 - Any tree has a leaf, with $n \geq 2$
 - Any tree with n nodes has exactly (n-1) edges
@@ -45,7 +44,6 @@ Given $A$
 **BFS with Adjacency Matrix** - $O(n^2)$
 - Each layer takes O(n) and worst case n layers
 
-
 **Claim** - Layer $L_j$ contains all nodes at distance exactly $j$ from starting node $s$
 - Base case n=1:
 	- The layer 0 only contains node $s$
@@ -63,7 +61,7 @@ There is a path from $s$ to $t$ if and only if $t$ appears in some layer
 
 If $x,y$ are two nodes in the BFS tree and are connected by an $(x,y)$ then,
 - either $x$ and $y$ belong to the same layer $L_i$ in BFS
-- or they belong to a neighboring layers $L_i$ and $L_{i\pm}$
+- or they belong to a neighboring layers $L_i$ and $L_{i\pm1}$
 - prove this claim with contradiction
 
 **Connect Component** - all nodes reachable from $s$
@@ -79,16 +77,12 @@ If $x,y$ are two nodes in the BFS tree and are connected by an $(x,y)$ then,
 
 **BFS with Adjacency List** - $O(n+m)$
 
-
 #### DFS
-
 **Claim** - Let $T$ be a DFS Tree, let $x$ and $y$ be nodes in $T$ and let $(x,y)$ be an edge of $G$ that is not and edge of $T$. Then one of $x$ or $y$ is an ancestor of the other
 
 Running time of DFS is $O(n+m)$
 
-
 #### DAG (Directed Acyclic Graph)
-
 **Topological Order** - A labeling of the nodes as $v_1, v_2, \dots, v_n$ so that whenever there is an edge $(v_i, v_j)$ then it must be that $i<j$, (root appears first, must complete first in list before can go on to other children)
 - Not all directed graphs have a topological ordering, that is if it has a cycle, it has no topological order
 - If a graph has a topological ordering, it must be a DAG

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D321/Number Systems.md",
+                "file": "B461/SQL to RA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Systems"
+              "title": "SQL to RA"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D321/Number Systems.md",
+                "file": "B461/Relation Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Systems"
+              "title": "Relation Algebra"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "interval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,39 +197,43 @@
   },
   "active": "f2f541ce6b66f1bd",
   "lastOpenFiles": [
+    "B461/SQL Basics.md",
+    "B461/RA Rewrite.md",
+    "B461/Relation Algebra.md",
+    "B403/Minimum Spanning Trees.md",
+    "B403/Greedy Algorithms.md",
+    "B403/Graphs.md",
+    "B403/Stable Matching.md",
+    "B403/Run Time Analysis.md",
+    "D321/Number Systems.md",
     "D321/Binary Arithmetic.md",
     "D321/Image Representation.md",
-    "D321/Text Representation.md",
-    "D321/Number Systems.md",
-    "Pasted image 20251013184217.png",
     "B403/Divide and Conquer.md",
-    "Index.md",
     "B461/Triggers.md",
-    "B403/Greedy Algorithms.md",
-    "B403/Minimum Spanning Trees.md",
-    "B403/Graphs.md",
-    "B461/SQL Functions and Expressions.md",
-    "B461/Joins.md",
     "B461/Aggregate Functions.md",
-    "B403/Stable Matching.md",
-    "D321",
-    "B461/RA Rewrite.md",
     "B461/SQL to RA.md",
-    "B461/Relation Algebra.md",
+    "B461/Joins.md",
+    "B461/SQL Functions and Expressions.md",
     "B461/Views.md",
-    "B461/SQL Basics.md",
-    "B403/Run Time Analysis.md",
-    "README.md",
+    "B455/notes.md",
+    "B455/combinepdf.md",
+    "B455/B455 Notes.md",
+    "B455",
+    "New folder",
+    "combinepdf.md",
+    "notes.md",
+    "B455 Notes.md",
+    "A310/Midterm.md",
+    "Index.md",
+    "A310",
+    "Pasted image 20251013184217.png",
+    "D321",
     "New Text Document.txt",
     "Obsidian-Vault",
-    "preamble.sty.md",
     "preamble.sty",
     "Untitled.canvas",
-    "CSS/hide blank line above tables.css.md",
     "CSS/hide-blank-line-above-tables.css",
     "CSS",
-    "Untitled.base",
-    "B461",
-    "B403"
+    "Untitled.base"
   ]
 }

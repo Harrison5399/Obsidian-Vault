@@ -75,6 +75,7 @@ $f(n) = O(f(n))$ and $\Omega(f(n))$ and $\Theta(f(n))$
 
 $\log_b (n) = O(n^k)$ for base $b>1$ and any degree $k>0$
 - Note: $k>0$ so $k$ can be less than one and be in square root time with $k=\frac{1}{2}$
+- So $O(\log_{b}n)= O(\log n)$
 
 $O(\log n^k) = O(k \log n) = O(\log n)$
 

@@ -3,5 +3,6 @@
   "local-gpt",
   "obsidian-latex",
   "quick-latex",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-export-image"
 ]

@@ -4,7 +4,7 @@
 3. [[Graphs]]
 4. [[Greedy Algorithms]]
 5. [[Minimum Spanning Trees]]
-
+6. [[Divide and Conquer]]
 
 ## B461 - Database Concepts
 1. [[SQL Basics]]
@@ -18,5 +18,9 @@
 9. [[Triggers]]
 
 ## D321 - Data Representation
+1. [[Number Systems]]
+2. [[Binary Arithmetic]]
+3. [[Text Representation]]
+4. [[Image Representation]]
 
 

@@ -1,4 +1,4 @@
-85## Addition
+## Addition
 
 | Input 1 | Input 2 | Sum | Carry |
 | ------- | ------- | --- | ----- |
