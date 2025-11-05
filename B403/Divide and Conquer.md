@@ -13,6 +13,13 @@ $T(n) = 2 T\left(\frac{n}{2}\right)+ T_{\text{merge}}(n)$
 - For merging efficient , have pointers starting at beginning of the two arrays, compare the two values of the pointers and append to the return array the lower value, increment that arrays pointer, and compare again
 	- $O(n)$
 
+**Merge Sort Running Time Recursive Formula**
+$T(n) = 2T\left(\frac{n}{2}\right)+ O(n)$
+- First term is for sorting
+- Second term is dividing + merging
+- **Formula after recursion $\rightarrow$ iteration**
+	- $T(n) = 2^{k}\frac{n}{2^{k}} + \dots$ **TODO: SEE SLIDES**
+
 **Recursion Analysis** -
 $T(n) = 2T\left(\frac{n}{2}\right)+ O(n) + O(1)$
 Assuming $n=2^m$
@@ -40,3 +47,7 @@ $T(n) \leq T\left(\lfloor \frac{n}{2} \rfloor\right)+ T\left(\lceil \frac{n}{2} 
 - $=> \log n_{1} \leq \log \frac{n}{2}$
 - Can do similar for $n_2$
 
+
+
+
+**KEY** - divide + merge need to be at least $O(n)$ to get a final running time of $O(n\log n)$
