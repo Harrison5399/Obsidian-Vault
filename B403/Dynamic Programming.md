@@ -1,3 +1,0 @@
-## Weighted Interval Scheduling
-
-
