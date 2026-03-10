@@ -1,0 +1,92 @@
+## Ancient Roman calendar
+- The first roman calendar (from 738 BCE) had only 10 lunar months, starting with Marius
+- They started their basis (0 position) was the year Rome was founded (753 BCE)
+	- So the first calendar was made on the 16th year credited to the first king, Romulus
+- Keeping of the calendar was an important responsibility assigned to the most pious religious officials
+	- At first this was the king
+	- After Rome abolished kingship, the task was given to the pontifex of Jupiter
+- There were 4 months with 31 days, with the other 6 having 30 days, totaling, 304 days
+- 31 day months were called full (pleni) and the 30 day months were called hollow (cavi)
+- Had only 3 named days a month
+	- Kalends - first of the month, day to pay all your debts
+		- Businessperson would keep track of the debts in account books called kalendaria
+			- This is where the word calendar came from
+	- Nones - 7th of the full months, and 5th of the hollow months
+	- Ides - 15th of the full months, 13th of the hollow months
+	- Every other day was referred to by how many days until the next day they named
+		- They counted the start and end, so if you had a birthday on the 11th of a short month so you would call this the 3rd day before April ides 
+- By 450 BCE the had added two months to the end, Ianuarius and Februarius
+	- They had a superstition about event numbers, so all the hollow months except Februarius were changed to have an odd amount of days, Februarius had 28 days
+	- So now they had 355 days a year
+		- If the pontifex was paying attention (they didn't always) he could add a shortened intercalary month (intercalaris) called Mercedonius at the end of the year during Februarius, usually done every other year
+			- Now the year is about a day too long
+- Julius Caesar was the pontifex of Jupiter, starting at a young age, he saw problems with the calendar system
+	- He proposed the Julian calendar in 46 BCE
+		- He added 23 days within Februarius and 67 days after October, both in that year 46 BCE
+			- This realigned the months with the seasons
+		- As dictator, Julius made sure that his calendar took effect on 1 Jan 45 BCE
+		- Its almost the same one we use today
+		- Had more full months of 31 days
+		- The hollow months that remain go back to having 30 days
+		- February keeps being the shortest month either 28 or 29 days (every 4th year)
+	- Augustus, Caesars successor, tweaked it to rename Quintilis, the month Caesar was born, after Caesar, as Iulius, and renamed Sextilis, after himself, Augustus
+- What about AD/BC
+	- AD = Anno Domini (Lattin: The year of the lord), turned to CE (common era)
+	- BC = Before Christ, turned to BCE (before common era)
+	- The year 1 BC was AD 1
+		- There was no year 0
+			- It is for this reason that the 21st century starts on 2001
+- TODO: MORE ABOUT GREGORIAN CALENDAR (THE ONE WE USE) ON SLIDES
+## Diophantus of Alexandria
+- 3rd c. CE Greek mathematician who lived in Alexandria
+- Often described as the "Father of Algebra"
+- Devoted to studying algebra separate from geometry
+- Arithmetica - his main work
+	- Originally consisting of 13 volumes, only 6 volumes survive in original Greek, these ones were commented on by Hypatia
+	- In 1970s 4 other volumes were found in Arabic
+	- At the beginning of volume 1, he is the first person who "attempts to give an account of the foundations of algebra"
+	- Except for the beginning of volume 1, it was basically a long list of problems
+	- For the first 6 books, it is completely void of geometric motivation, and there are 189 problems
+#### Diophantine equations
+- An equation in two or more variables in which only integer solutions are allowed
+	- ex. $12x+13y=1$
+- His title of "father of algebra" comes mostly from his notational innovations
+	- used Greek numerals for numbers (compared to roman numerals)
+		- see slides for details (Y == 'terminal sigma')
+## Nicomachus of Gerasa
+- One of the leading Neopythagoreans in 1st c. CE
+- Wrote on numbers and music
+- His name became a byword for calculational skill - "to calculate like Nicomachus" was a high compliment
+- Born around 60 CE in Gerasa, the Roman province of Syria, died around 120 CE
+- Said "Philosophy can only be possible if one knows enough mathematics"
+- Introduction to Arithmetic - his main work
+	- Consists of two books
+	- First work to treat arithmetic as a subject completely separate from geometry
+	- At least two centuries before Diophantus did (almost the same thing)
+		- Not usually considered the father of algebra because he didn't prove things himself, relying on earlier mathematicians like Euclid
+		- The errors he made made it seem like he didn't know it or that he was merely guessing
+	- It was still the standard arithmetic text for 1000 years even though mathematicians didn't like it or respect it
+		- Why then? The Italian philosopher Boethius (480-524), was a big fan of Nicomachus and translated it to Latin, he recommended it and it became an integral part of the quadrivium (the important 4 studies)
+		- Mathematicians stuck with Euclid, and philosophers liked Nicomachus
+- Also wrote, "Life of Pythagoras" and "Theology of Arithmetic"
+#### Nicomachus' Theorem
+- The sum of the first n cubes equals the square of the sum of the first n integers
+	- $\sum_{i=1}^{n}i^{3}=(\sum_{i=1}^{n}i)^2$
+## Apollonius of Perga
+- Greek geometer known for his work with conic sections
+- His dates are 240-190 BCE
+- Perga was an ancient Greek city of Asia Minor
+- Eutocius of Ascalon (480-530 CE), wrote the best source of biographical information, who read it from Herakleion, a biographer of Archimedes, Herakleion's work vanished
+- Migrated from Perga to Alexandria in the time of Ptolemy III (ruled 246-222 BCE)
+- Conics - his main work
+	- Said to have produced many works of geometry
+	- Only one work survives that was definitely written by Apollonius
+	- Originally 7 books, with an appendix  as the 8th book
+	- Each book had some prologue dedicating it to someone
+		- 1st & 2nd to Eudemus of Pergamum
+			- Brought to him by the authors son, also named Apollonius
+	- The first 4 books survive in the original Greek
+	- The earliest versions of Books 5-7 survive in Arabic translation
+	- Book 8 was said to be unfinished at the time of Apollonius' death
+	- It was not translated into English until, starting in 1990s and appeared in 2013
+

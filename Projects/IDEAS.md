@@ -1,0 +1,5 @@
+- Prompt injection sanitizer
+	- This seems kind of trivial, first i think see how these llms are actually reteriving data from applications like email, ..., got this from clawdbot/moltbot
+	- What is the prompt and when is not the prompt, stop someone from emailing to make something open on your machine
+		- early idea, what about programmatically controlling when and when not you should allow some llm to use mcp or not?
+- Video recommendation system that uses images/transcript of videos to determine class/who to recommend to
